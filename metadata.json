@@ -1,0 +1,6 @@
+{
+  "name": "Roots & Branches",
+  "description": "Create warm, heirloom family trees from names, relationships, dates, and photos—with private family submissions and customizable print-ready designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
